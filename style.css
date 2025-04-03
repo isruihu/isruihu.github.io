@@ -120,15 +120,15 @@ table.paper td {
 }
 
 table.paper td.paper_img {
-    height: 110px;
-    width: 130px;
+    height: 75px;
+    width: 75px;
 }
 
 table.paper div.paper_img {
     text-align: center;
     vertical-align: middle;
-    height: 110px;
-    width: 130px;
+    height: 75px;
+    width: 75px;
 }
 
 table.paper img {
