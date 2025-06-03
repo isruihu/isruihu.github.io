@@ -15,6 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+# 🧑‍🎨 About Me 
+
 <span class='anchor' id='about-me'></span>
 I am a third-year PhD student in Computer Science at the Beijing Jiaotong University <a href="http://adam-bjtu.org/">ADaM Lab</a>, where I am advised by <a href="https://faculty.bjtu.edu.cn/9129/"> Prof. Jitao Sang </a>. Prior to starting my PhD, I obtained a Master's degree with a major in Computer Technology from Beijing Jiaotong University and a Bachelor's degree with a major in Software Engineering from Xiangtan University.
 
@@ -40,7 +43,7 @@ Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language
 
 **Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu, Jitao Sang
 
-Information Sciences, 122361
+Information Sciences 718, 122361
 
 </div></div>
 
