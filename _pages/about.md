@@ -44,7 +44,7 @@ Information Sciences, 122361
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/Self-KD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2025</div><img src='images/Self-KD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models
