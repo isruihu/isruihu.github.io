@@ -26,6 +26,31 @@ My research interest includes reliable machine Llarning and multimodal large lan
 <div class='paper-box-text' markdown="1">
 
 Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
+
 **Rui Hu**, Yahan Tu, Jitao Sang
+
+Proceedings of the 31st ACM International Conference on Multimedia, 1616-1624
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/DFTG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning
+
+**Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu, Jitao Sang
+
+Information Sciences, 122361
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/Self-KD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models
+
+**Rui Hu**, Delai Qiu, Shuyu Wei, Jiaming Zhang, Yining Wang, Shengping Liu, Jitao Sang
+
+ACL Findings, 2025
 
 </div></div>
