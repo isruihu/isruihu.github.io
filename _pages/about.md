@@ -32,7 +32,7 @@ My research interest includes reliable machine learning and multimodal large lan
 
 **Rui Hu**, Yahan Tu, Jitao Sang
 
-Proceedings of the 31st ACM International Conference on Multimedia, 1616-1624
+*Proceedings of the 31st ACM International Conference on Multimedia, 1616-1624*
 
 </div></div>
 
@@ -43,7 +43,7 @@ Proceedings of the 31st ACM International Conference on Multimedia, 1616-1624
 
 **Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu, Jitao Sang
 
-Information Sciences 718, 122361
+*Information Sciences 718, 122361*
 
 </div></div>
 
@@ -54,6 +54,6 @@ Information Sciences 718, 122361
 
 **Rui Hu**, Delai Qiu, Shuyu Wei, Jiaming Zhang, Yining Wang, Shengping Liu, Jitao Sang
 
-ACL Findings, 2025
+*Findings of the Association for Computational Linguistics: ACL 2025*
 
 </div></div>
