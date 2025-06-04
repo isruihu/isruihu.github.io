@@ -28,7 +28,7 @@ My research interest includes reliable machine learning and multimodal large lan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023 Oral</div><img src='images/Echoes.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
+[Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber](https://arxiv.org/abs/2305.04043)
 
 **Rui Hu**, Yahan Tu, Jitao Sang
 
@@ -39,7 +39,7 @@ Proceedings of the 31st ACM International Conference on Multimedia, 1616-1624
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/DFTG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning
+[Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning](https://arxiv.org/pdf/2404.10332)
 
 **Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu, Jitao Sang
 
@@ -50,7 +50,7 @@ Information Sciences 718, 122361
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2025</div><img src='images/Self-KD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models
+[Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models](https://arxiv.org/pdf/2503.00059)
 
 **Rui Hu**, Delai Qiu, Shuyu Wei, Jiaming Zhang, Yining Wang, Shengping Liu, Jitao Sang
 
