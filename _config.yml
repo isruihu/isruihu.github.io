@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=7vS7uMoAAAAJ&hl=zh-CN
   email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/isruihu
   google_plus      :
   keybase          :
   instagram        :
