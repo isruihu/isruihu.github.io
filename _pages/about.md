@@ -57,3 +57,15 @@ My research interest includes reliable machine learning and multimodal large lan
 *Findings of the Association for Computational Linguistics: ACL 2025*
 
 </div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ODE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ODE: Open-Set Evaluation of Hallucinations in Multimodal Large LanguageModels](https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf)
+
+Yahan Tu, **Rui Hu**, Jitao Sang
+
+*Proceedings of the Computer Vision and Pattern Recognition Conference, 2025*
+
+</div></div>
