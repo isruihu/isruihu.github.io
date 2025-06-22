@@ -32,7 +32,7 @@ My research interest includes reliable machine learning and multimodal large lan
 
 **Rui Hu**, Yahan Tu, Jitao Sang
 
-*Proceedings of the 31st ACM International Conference on Multimedia, 1616-1624*
+*ACM International Conference on Multimedia (MM), 2023 Oral*
 
 </div></div>
 
@@ -43,7 +43,7 @@ My research interest includes reliable machine learning and multimodal large lan
 
 **Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu, Jitao Sang
 
-*Information Sciences 718, 122361*
+*Information Sciences, 2025*
 
 </div></div>
 
@@ -54,7 +54,7 @@ My research interest includes reliable machine learning and multimodal large lan
 
 **Rui Hu**, Delai Qiu, Shuyu Wei, Jiaming Zhang, Yining Wang, Shengping Liu, Jitao Sang
 
-*Findings of the Association for Computational Linguistics: ACL 2025*
+*Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2025*
 
 </div></div>
 
@@ -66,6 +66,6 @@ My research interest includes reliable machine learning and multimodal large lan
 
 Yahan Tu, **Rui Hu**, Jitao Sang
 
-*Proceedings of the Computer Vision and Pattern Recognition Conference, 2025*
+*Computer Vision and Pattern Recognition Conference (CVPR), 2025*
 
 </div></div>
