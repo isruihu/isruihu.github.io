@@ -25,8 +25,9 @@ My research interest includes multimodal large language model and reliable machi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">l</div><img src='images/VAPO.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VAPO.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Optimization](https://arxiv.org/pdf/2510.08618)
 
@@ -36,8 +37,9 @@ My research interest includes multimodal large language model and reliable machi
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings 2025</div><img src='images/Self-KD.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Self-KD.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models](https://arxiv.org/pdf/2503.00059)
 
@@ -48,7 +50,7 @@ My research interest includes multimodal large language model and reliable machi
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ODE.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ODE.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf)
@@ -59,7 +61,7 @@ Yahan Tu, **Rui Hu**, Jitao Sang
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/DFTG.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DFTG.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning](https://arxiv.org/pdf/2404.10332)
@@ -70,10 +72,10 @@ Yahan Tu, **Rui Hu**, Jitao Sang
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023 Oral</div><img src='images/Echoes.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Echoes.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber](https://arxiv.org/abs/2305.04043)
+[Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber](https://arxiv.org/pdf/2305.04043)
 
 **Rui Hu**, Yahan Tu, Jitao Sang
 
