@@ -29,11 +29,13 @@ My research interest includes multimodal large language model and reliable machi
 <div class='paper-box-text' markdown="1">
 
 
-[Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Optimization](https://arxiv.org/pdf/2510.08618)
+Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Optimization
 
 **Rui Hu**, Delai Qiu, Yining Wang, Shengping Liu, Jitao Sang
 
-*Preprint, 2025*
+ArXiv Preprint, 2025.
+
+[ArXiv](https://arxiv.org/pdf/2510.08618) [Code](https://github/isruihu/SlideASR-Bench)
 
 </div></div>
 
@@ -41,11 +43,13 @@ My research interest includes multimodal large language model and reliable machi
 <div class='paper-box-text' markdown="1">
 
 
-[Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models](https://arxiv.org/pdf/2503.00059)
+Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models
 
 **Rui Hu**, Delai Qiu, Shuyu Wei, Jiaming Zhang, Yining Wang, Shengping Liu, Jitao Sang
 
-*Annual Meeting of the Association for Computational Linguistics (ACL) Findings, 2025*
+Annual Meeting of the Association for Computational Linguistics  (ACL), Findings, 2025.
+
+[Conference] [Paper](https://arxiv.org/pdf/2503.00059)
 
 </div></div>
 
@@ -53,32 +57,39 @@ My research interest includes multimodal large language model and reliable machi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ODE.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf)
+ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models
 
 Yahan Tu, **Rui Hu**, Jitao Sang
 
-*Computer Vision and Pattern Recognition Conference (CVPR), 2025*
+IEEE Conference on Computer Vision and Pattern Recognition Conference (CVPR), 2025.
+
+[Conference] [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf) 
+
 
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DFTG.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning](https://arxiv.org/pdf/2404.10332)
+Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning
 
 **Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu, Jitao Sang
 
-*Information Sciences, 2025*
+Information Sciences, 2025.
+
+[Journal] [Paper](https://arxiv.org/pdf/2404.10332)
 
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Echoes.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber](https://arxiv.org/pdf/2305.04043)
+Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
 
 **Rui Hu**, Yahan Tu, Jitao Sang
 
-*ACM International Conference on Multimedia (MM), 2023 Oral*
+ACM International Conference on Multimedia (MM), Oral, 2023.
+
+[Conference] [Paper](https://arxiv.org/pdf/2305.04043) [Code](https://github/isruihu/Echoes)
 
 </div></div>
