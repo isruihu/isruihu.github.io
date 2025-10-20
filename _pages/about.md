@@ -25,7 +25,7 @@ My research interest includes multimodal large language model and reliable machi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VAPO.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VAPO.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -35,11 +35,11 @@ Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Opt
 
 ArXiv Preprint, 2025.
 
-[ArXiv](https://arxiv.org/pdf/2510.08618) [Code](https://github/isruihu/SlideASR-Bench)
+[Preprint] [[Paper](https://arxiv.org/pdf/2510.08618)] [[Code](https://github/isruihu/SlideASR-Bench)]
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Self-KD.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Self-KD.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -49,12 +49,12 @@ Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language 
 
 Annual Meeting of the Association for Computational Linguistics  (ACL), Findings, 2025.
 
-[Conference] [Paper](https://arxiv.org/pdf/2503.00059)
+[Conference] [[Paper](https://arxiv.org/pdf/2503.00059)]
 
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ODE.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ODE.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models
@@ -63,25 +63,25 @@ Yahan Tu, **Rui Hu**, Jitao Sang
 
 IEEE Conference on Computer Vision and Pattern Recognition Conference (CVPR), 2025.
 
-[Conference] [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf) 
+[Conference] [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_ODE_Open-Set_Evaluation_of_Hallucinations_in_Multimodal_Large_Language_Models_CVPR_2025_paper.pdf)]
 
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DFTG.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DFTG.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning
 
 **Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu, Jitao Sang
 
-Information Sciences, 2025.
+Information Sciences (INS), 2025.
 
-[Journal] [Paper](https://arxiv.org/pdf/2404.10332)
+[Journal] [[Paper](https://arxiv.org/pdf/2404.10332)]
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Echoes.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Echoes.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
@@ -90,6 +90,6 @@ Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
 
 ACM International Conference on Multimedia (MM), Oral, 2023.
 
-[Conference] [Paper](https://arxiv.org/pdf/2305.04043) [Code](https://github/isruihu/Echoes)
+[Conference] [[Paper](https://arxiv.org/pdf/2305.04043)] [[Code](https://github/isruihu/Echoes)]
 
 </div></div>
