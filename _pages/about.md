@@ -35,7 +35,7 @@ Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Opt
 
 ArXiv Preprint, 2025.
 
-[Preprint] [[Paper](https://arxiv.org/pdf/2510.08618)] [[Code](https://github/isruihu/SlideASR-Bench)]
+[Preprint] [[Paper](https://arxiv.org/pdf/2510.08618)] [[Code](https://github.com/isruihu/SlideASR-Bench)]
 
 </div></div>
 
@@ -90,6 +90,6 @@ Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
 
 ACM International Conference on Multimedia (MM), Oral, 2023.
 
-[Conference] [[Paper](https://arxiv.org/pdf/2305.04043)] [[Code](https://github/isruihu/Echoes)]
+[Conference] [[Paper](https://arxiv.org/pdf/2305.04043)] [[Code](https://github.com/isruihu/Echoes)]
 
 </div></div>
