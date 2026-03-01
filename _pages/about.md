@@ -19,7 +19,7 @@ redirect_from:
 # 🧑‍🎨 About Me 
 
 <span class='anchor' id='about-me'></span>
-I am a final-year PhD student in Computer Science at the Beijing Jiaotong University <a href="http://adam-bjtu.org/">ADaM Lab</a>, where I am advised by Prof. Jitao Sang </a>. Prior to starting my PhD, I obtained a Master's degree with a major in Computer Technology from Beijing Jiaotong University and a Bachelor's degree with a major in Software Engineering from Xiangtan University.
+I am a final-year PhD student in Computer Science at the <a href="https://bjtu.edu.cn/">Beijing Jiaotong University</a> <a href="http://adam-bjtu.org/">ADaM Lab</a>, where I am advised by Prof. <a href="https://faculty.bjtu.edu.cn/9129/">Jitao Sang </a>. Prior to starting my PhD, I obtained a Master's degree with a major in Computer Technology from Beijing Jiaotong University and a Bachelor's degree with a major in Software Engineering from <a href="https://www.xtu.edu.cn/">Xiangtan University</a>.
 
 My research interest includes multimodal large language model and reliable machine learning.
 
@@ -33,7 +33,7 @@ Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Opt
 
 **Rui Hu**, Delai Qiu, Yining Wang, Shengping Liu, Jitao Sang
 
-ArXiv Preprint, 2025.
+Preprint, 2025.
 
 [Preprint] [[Paper](https://arxiv.org/pdf/2510.08618)] [[Code](https://github.com/isruihu/SlideASR-Bench)]
 
@@ -88,7 +88,7 @@ Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
 
 **Rui Hu**, Yahan Tu, Jitao Sang
 
-ACM International Conference on Multimedia (MM), Oral, 2023.
+ACM International Conference on Multimedia (MM), 2023. Oral
 
 [Conference] [[Paper](https://arxiv.org/pdf/2305.04043)] [[Code](https://github.com/isruihu/Echoes)]
 
