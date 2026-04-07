@@ -19,7 +19,7 @@ redirect_from:
 # 🧑‍🎨 About Me 
 
 <span class='anchor' id='about-me'></span>
-I am a final-year PhD student in Computer Science at the <a href="https://bjtu.edu.cn/">Beijing Jiaotong University</a> <a href="http://adam-bjtu.org/">ADaM Lab</a>, where I am advised by Prof. <a href="https://faculty.bjtu.edu.cn/9129/">Jitao Sang </a>. Prior to starting my PhD, I obtained a Master's degree with a major in Computer Technology from Beijing Jiaotong University and a Bachelor's degree with a major in Software Engineering from <a href="https://www.xtu.edu.cn/">Xiangtan University</a>.
+I am a final-year PhD student in Computer Science at the <a href="https://bjtu.edu.cn/">Beijing Jiaotong University</a> <a href="http://adam-bjtu.org/">ADaM Lab</a>, where I am advised by Prof.<a href="https://faculty.bjtu.edu.cn/9129/">Jitao Sang</a>. Prior to starting my PhD, I obtained a Master's degree with a major in Computer Technology from Beijing Jiaotong University and a Bachelor's degree with a major in Software Engineering from <a href="https://www.xtu.edu.cn/">Xiangtan University</a>.
 
 My research interest includes multimodal large language model and reliable machine learning.
 
@@ -27,17 +27,15 @@ My research interest includes multimodal large language model and reliable machi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VAPO.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-Look before Transcription: End-to-End SlideASR with Visually-Anchored Policy Optimization
+VAPO: End-to-end Slide-Enhanced Speech Recognition with Omni-modal Large Language Models
 
 **Rui Hu**, Delai Qiu, Yining Wang, Shengping Liu, Jitao Sang
 
-Preprint, 2025.
+Annual Meeting of the Association for Computational Linguistics  (ACL), Main Conference, 2026.
 
-[Preprint] [[Paper](https://arxiv.org/pdf/2510.08618)] [[Code](https://github.com/isruihu/SlideASR-Bench)]
-
+[Conference] [[Paper](https://arxiv.org/pdf/2510.08618)] [[Code](https://github.com/isruihu/SlideASR-Bench)]
 </div></div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Self-KD.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,3 +91,4 @@ ACM International Conference on Multimedia (MM), 2023. Oral
 [Conference] [[Paper](https://arxiv.org/pdf/2305.04043)] [[Code](https://github.com/isruihu/Echoes)]
 
 </div></div>
+
