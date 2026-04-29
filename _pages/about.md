@@ -15,7 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
 # 🧑‍🎨 About Me 
 
 <span class='anchor' id='about-me'></span>
@@ -23,13 +22,18 @@ I am a final-year PhD student in Computer Science at the <a href="https://bjtu.e
 
 My research interest includes multimodal large language model and reliable machine learning.
 
+# 📆 News
+
+2026/04 Two papers accepted to ACL 2026!
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VAPO.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 VAPO: End-to-end Slide-Enhanced Speech Recognition with Omni-modal Large Language Models
 
-**Rui Hu**, Delai Qiu, Yining Wang, Shengping Liu, Jitao Sang*
+**Rui Hu**, Delai Qiu, Yining Wang, Shengping Liu, Jitao Sang\*
 
 Annual Meeting of the Association for Computational Linguistics  (ACL), Main Conference, 2026.
 
@@ -57,7 +61,7 @@ Annual Meeting of the Association for Computational Linguistics  (ACL), Findings
 
 ODE: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models
 
-Yahan Tu, **Rui Hu**, Jitao Sang*
+Yahan Tu, **Rui Hu**, Jitao Sang\*
 
 IEEE Conference on Computer Vision and Pattern Recognition Conference (CVPR), 2025.
 
@@ -71,7 +75,7 @@ IEEE Conference on Computer Vision and Pattern Recognition Conference (CVPR), 20
 
 Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning
 
-**Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu*, Jitao Sang
+**Rui Hu**, Yahan Tu, Shuyu Wei, Dongyuan Lu\*, Jitao Sang
 
 Information Sciences (INS), 2025.
 
@@ -84,7 +88,7 @@ Information Sciences (INS), 2025.
 
 Echoes: Unsupervised Debiasing via Pseudo-bias Labeling in an Echo Chamber
 
-**Rui Hu**, Yahan Tu, Jitao Sang*
+**Rui Hu**, Yahan Tu, Jitao Sang\*
 
 ACM International Conference on Multimedia (MM), 2023. Oral
 
