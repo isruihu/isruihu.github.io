@@ -43,7 +43,7 @@ Annual Meeting of the Association for Computational Linguistics  (ACL), Main Con
 
 Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models
 
-**Rui Hu**, Delai Qiu, Shuyu Wei, Jiaming Zhang, Yining Wang, Shengping Liu*, Jitao Sang*
+**Rui Hu**, Delai Qiu, Shuyu Wei, Jiaming Zhang, Yining Wang, Shengping Liu\*, Jitao Sang\*
 
 Annual Meeting of the Association for Computational Linguistics  (ACL), Findings, 2025.
 
