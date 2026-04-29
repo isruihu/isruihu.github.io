@@ -25,9 +25,13 @@ My research interest includes multimodal large language model and reliable machi
 # 📆 News
 
 2026/04   Two papers accepted to ACL 2026!
+
 2025/05   One paper accepted to ACL 2025!
+
 2025/05   One paper accepted to Information Sciences!
+
 2025/01   One paper accepted to CVPR 2025!
+
 2023/07   One Paper accepted to ACM MM 2023 Oral!
 
 # 📝 Publications 
